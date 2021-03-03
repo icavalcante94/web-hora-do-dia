@@ -1,6 +1,6 @@
 # web-hora-do-dia
 
-Atividade do Curso de JavaScript do canal Curso em Vídeo
+Atividade do Curso de JavaScript do canal Curso em Vídeo usando o StackBlitz
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-hora-do-dia)
 
