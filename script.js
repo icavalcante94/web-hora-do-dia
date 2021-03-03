@@ -3,7 +3,6 @@ function carregar(){
     var img = document.querySelector('img#imagem')
     var data = new Date()
     var hora = data.getHours()
-    var min = data.getMinutes()
     // var hora = 22
     
     if(hora >= 0 && hora < 12 ){
@@ -23,5 +22,5 @@ function carregar(){
         document.body.style.background = '#01404e'
     }
 
-    msg.innerHTML += `Agora são ${hora}:${min} horas.`
+    msg.innerHTML += `Agora são ${hora} horas.`
 }
